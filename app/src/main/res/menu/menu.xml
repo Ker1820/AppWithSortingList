@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/sort_button_AZ"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/sort_ascending"/>
+    <item android:id="@+id/sort_button_ZA"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/sort_descending"/>
+</menu>
